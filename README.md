@@ -20,9 +20,9 @@ The following definitions are provided for convenience
 
 displayText(int x, int y, int size, String text, int color)
 
-x and y - define the postion to draw the text
-size - how large the text should be
-color - the colour of the text (see constants at the top of the file)
+: x and y - define the postion to draw the text
+: size - how large the text should be
+: color - the colour of the text (see constants at the top of the file)
 
 ## How to extend
 
